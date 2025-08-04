@@ -1,1 +1,1 @@
-# soc-home-lab
+# Title - clear and concise
